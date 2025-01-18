@@ -25,7 +25,7 @@ class Ninja(Character):
          super().take_damage(damage_resisted)
 
 w=Warrior(100,50,10)
-n=Ninja(100,50,10,0.4)
+n=Ninja(100,50,10)
 w.take_damage(n.damage)
 print(n.damage_resistence)
 print(w.health)
