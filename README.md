@@ -1,4 +1,4 @@
-<h1>BASIC PYTHON CLASSES WITH INHERIENCE<h1>
+<h1>BASIC PYTHON MINI PROJECTS<h1>
   <h2>THE ANIMALS CLASS</h2>
 <p>
   There is a parent class called Animal and three child classes Hawk,Rabbit,Fish and these classes inherit some attributes from there parent class but also have some exclusive attributes
